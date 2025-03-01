@@ -26,7 +26,9 @@ Unordered Lists
 - Two
 + Three
 ----
-[Git Tutorial]()
+[Git Tutorial](https://github.com/UBinduSree/Git)
+
+![Git Image](https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png)
 
 
 
