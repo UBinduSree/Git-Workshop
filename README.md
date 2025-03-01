@@ -2,9 +2,9 @@
 ## Heading2
 ### Heading3
 #### Heading4
-APSSDC *Great* Work
+APSSDC *Great* Work --I[^1]
 
-APSSDC **Great** Work
+APSSDC **Great** Work --B[^2]
 
 APSSDC ***Great*** Work
 
@@ -43,9 +43,16 @@ printf("Git");
 }
 ```
 
-- [] C program
-- [] Python
-- [] Java
+- [ ] C program
+- [ ] Python
+- [x] Java
+
+This is the md[^3]file used to describe
+
+[^1]:Italic
+[^2]:Bold
+[^3]:Markdown
+
 
 
 
