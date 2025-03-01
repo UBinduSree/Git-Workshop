@@ -34,14 +34,18 @@ Unordered Lists
 |---|----|
 |DVCX|Remote the sensor|
 
-'code'
-'''
+`code`
+```
 #include<stdio.h>
 int main()
 {
 printf("Git");
 }
-'''
+```
+
+- [] C program
+- [] Python
+- [] Java
 
 
 
