@@ -30,6 +30,19 @@ Unordered Lists
 
 ![Git Image](https://miro.medium.com/v2/resize:fit:383/1*co_1qORNdM0PI1nvCp7Iig.png)
 
+|Git|GitHub|
+|---|----|
+|DVCX|Remote the sensor|
+
+'code'
+'''
+#include<stdio.h>
+int main()
+{
+printf("Git");
+}
+'''
+
 
 
 
